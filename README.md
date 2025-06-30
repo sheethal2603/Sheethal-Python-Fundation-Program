@@ -14,22 +14,15 @@ In the modern world, art is no longer limited to physical galleries. With the ri
 • Features :
 
 The Virtual Art Gallery system supports the following core features
--> Add Artwork : 
-Insert new artwork into the gallery with full details like title, description, medium, and artist.
+
+-> Add Artwork :
 -> Update Artwork :
-Modify existing artwork records to keep information accurate and up to date.
--> Remove Artwork : 
-Delete artwork entries that are no longer needed or relevant.
+-> Remove Artwork :
 -> View Artwork by ID :
-Retrieve complete details of a specific artwork using its unique ID.
 -> Search Artworks :
-Search artworks by title or description using keyword-based filtering.
 -> Add to Favorites :
-Allow users to mark specific artworks as favorites for quick access.
 -> Remove from Favorites :
-Let users remove artworks from their favorites list.
 -> View Favorite Artworks :
-Display all artworks marked as favorite by a particular user.
 
 These features simulate real-world gallery operations and are backed by a MySQL database using Python, object-oriented design, and clean exception handling.
 
